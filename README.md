@@ -3,7 +3,7 @@ Official PyTorch implementation for the following paper, which was accepted by A
 
 **Improved MLP Point Cloud Processing with High-Dimensional Positional Encoding**
 
-*by Yanmei Zou, [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) *, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), Zechuan Li, [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
+*by [Yanmei Zou](https://orcid.org/my-orcid?orcid=0000-0002-9102-8724), [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) *, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), Zechuan Li, [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
 
 ## Features
 In the project, 
