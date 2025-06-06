@@ -5,6 +5,8 @@ Official PyTorch implementation for the following paper, which was accepted by A
 
 *by [Yanmei Zou](https://orcid.org/my-orcid?orcid=0000-0002-9102-8724), [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) *, [Zhengeng Yang](https://gsy.hunnu.edu.cn/info/1071/3537.htm), Zechuan Li, [Naveed Akhtar](https://findanexpert.unimelb.edu.au/profile/1050019-naveed-akhtar)
 
+We extend HPENet to HPENet V2, please refer to [https://github.com/zouyanmei/HPENet_v2](https://github.com/zouyanmei/HPENet_v2) for details.
+
 ## Features
 In the project, 
 1. We identify a unified “abstraction and refinement” paradigm underpinning the current high-performing point cloud modeling techniques, which allows an intuitive  delineation of the key strengths of the methods.
